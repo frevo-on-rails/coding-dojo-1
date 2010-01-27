@@ -1,7 +1,7 @@
 require 'rubygems'
 require 'shoulda'
-require  'permutacao'
 require 'set'
+require 'permutation'
 
 class PermutationTest < Test::Unit::TestCase
    context  "A permutation class" do
