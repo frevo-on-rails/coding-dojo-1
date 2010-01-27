@@ -5,6 +5,7 @@ Pernambuco Ruby Users Group
 #Coding Dojo 1
 
 When: 2010-01-27 09:00 AM
+
 Where: Centro de Informática (UFPE)
 
 ##Problem
