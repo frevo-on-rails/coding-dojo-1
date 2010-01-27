@@ -1,0 +1,20 @@
+==============================
+ FREVO ON RAILS
+ Pernambuco Ruby Users Group
+==============================
+
+
+Coding Dojo #1
+==============
+
+When: 2010-01-27 9AM
+Where: Centro de Informática (UFPE)
+
+Problem
+-------
+Given some lists, obtain their cartesian product*.
+For instance, for lists [1,2] and [3,4,5], the result should be:
+	[1,3], [1,4], [1,5], [2,3], [2,4], [2,5]
+See more examples on the test file.
+
+*We called it permutation on code.
